@@ -1,0 +1,38 @@
+<HTML>
+
+<head style="color:blue;">         </HEAD>
+     
+<TITLE>Title Here</TITLE>
+
+</HEAD>
+
+<BODY {color: red;}>
+
+<img src="cat.jpg">
+
+<a href="page2.html">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<H1> Header</H1>
+
+<H2>Medium Header</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">
+
+support@yourcompany.com</a>.
+
+<P> new paragraph
+
+<P> <B>ew paragraph</B>
+
+<BR> <B><I>new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>
+
